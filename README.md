@@ -71,7 +71,7 @@ Siga o padrão de organização do repositório e, se possível, inclua comentá
 <hr>
 
 <p align="center">
-  <img src="media/interif_2024.png" alt="LOGO">
+  <img src="media/interif_2024.png" alt="Segunda fase">
 </p>
 
 <p align="center">
