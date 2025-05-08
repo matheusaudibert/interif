@@ -10,7 +10,6 @@ def conta_vogal(texto):
       contagem += 1
     
   return contagem % 3
-
      
 nome= input("Digite o nome: ")
 vogais = conta_vogal(nome)
