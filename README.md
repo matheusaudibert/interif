@@ -64,9 +64,7 @@ Confira o site oficial da competição:
 
 ## Contribuições
 
-Se você quiser contribuir com soluções, correções ou melhorias, basta enviar um **pull request** com a sua proposta. Soluções para exercícios das provas anteriores (2018 a 2023) são especialmente bem-vindas.
-
-Siga o padrão de organização do repositório e, se possível, inclua comentários ou explicações junto ao código para ajudar outros estudantes a entenderem a lógica.
+Se você quiser contribuir com soluções, correções ou melhorias, basta enviar um **pull request** com a sua proposta. Siga o padrão de organização do repositório e, se possível, inclua comentários ou explicações junto ao código para ajudar outros estudantes a entenderem a lógica.
 
 <hr>
 
