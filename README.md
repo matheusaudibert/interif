@@ -75,5 +75,5 @@ Siga o padrão de organização do repositório e, se possível, inclua comentá
 </p>
 
 <p align="center">
-  <i>Fase final do InterIF 2024</i>
+  <i>Segunda fase do InterIF 2024</i>
 </p>
