@@ -1,3 +1,6 @@
+# Problema B 
+# Classificação para corrida de kart
+
 def converte_tempo(tempo_str):
     """Converte o tempo no formato m:ss.fff para milissegundos."""
     minutos, resto = tempo_str.split(":")

@@ -1,6 +1,9 @@
+# Problema A 
+# O Bruxo e os Frascos
+
 def conta_vogal(texto):
   vogais = 'aeiouAEIOU'
-  contagem = 0;
+  contagem = 0
   
   for letra in texto:
     if letra in vogais:
