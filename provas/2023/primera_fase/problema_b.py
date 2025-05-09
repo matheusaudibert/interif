@@ -2,13 +2,13 @@
 # Classificação para corrida de kart
 
 def converte_tempo(tempo_str):
-    """Converte o tempo no formato m:ss.fff para milissegundos."""
+    # Converte o tempo no formato m:ss.fff para milissegundos.
     minutos, resto = tempo_str.split(":")
     segundos, milissegundos = resto.split(".")
     return int(minutos) * 60000 + int(segundos) * 1000 + int(milissegundos)
 
 def formata_tempo(ms):
-    """Converte o tempo em milissegundos de volta para o formato m:ss.fff."""
+    # Converte o tempo em milissegundos de volta para o formato m:ss.fff.
     minutos = ms // 60000
     segundos = (ms % 60000) // 1000
     milissegundos = ms % 1000
