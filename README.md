@@ -49,7 +49,7 @@ A competição é dividida em duas etapas:
 - **Etapa local (em cada campus):** 28 de junho de 2025, às 8h
 - **Etapa final (em São Carlos):** 03 e 04 de outubro de 2025
 
-## Link Úteis
+## Links Úteis
 
 - [Formulário de inscrição](https://forms.gle/DZXiMzVAYTPdian2A) (_até o dia 30 de maio de 2025_)
 - [Edital de inscrição (PDF)](https://drive.google.com/file/d/1sYCNuBOG5vYjvzXBxJk2E24joy2g5UvX/view?usp=sharing)
