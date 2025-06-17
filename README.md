@@ -21,7 +21,7 @@
 
 Bem-vindo ao repositório da **Maratona de Programação do IFSP**, também conhecida como **InterIF**!  
 Aqui você encontrará provas e resoluções comentadas das edições anteriores da maratona, com foco em ajudar estudantes a praticarem e se prepararem para a competição.  
-O conteúdo está sendo adicionado gradualmente — fique à vontade para contribuir!
+O conteúdo está sendo adicionado gradualmente, fique à vontade para contribuir!
 
 ## Estrutura do Repositório
 
@@ -58,7 +58,7 @@ A competição é dividida em duas etapas:
 
 ## Mais informações
 
-Confira o site oficial da competição:
+Confira o site oficial da maratona:
 
 - [https://ifsp.edu.br/interif](https://ifsp.edu.br/interif)
 
