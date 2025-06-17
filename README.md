@@ -66,8 +66,6 @@ Confira o site oficial da competição:
 
 Se você quiser contribuir com soluções, correções ou melhorias, basta enviar um **pull request** com a sua proposta. Siga o padrão de organização do repositório e, se possível, inclua comentários ou explicações junto ao código para ajudar outros estudantes a entenderem a lógica.
 
-<hr>
-
 <p align="center">
   <img src="media/interif_2024.png" alt="Segunda fase">
 </p>
