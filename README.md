@@ -52,8 +52,8 @@ A competição é dividida em duas etapas:
 ## Links Úteis
 
 - [Equipes](Equipes.pdf) _(262 Equipes no total!)_
-- [Regulamento 2025 (PDF)](Regulamento.pdf)
-- [Critérios de Classificação InterIF 2025 (PDF)](Criterios_Classificacao.pdf)
+- [Regulamento](Regulamento.pdf)
+- [Critérios de Classificação InterIF](Criterios_Classificacao.pdf)
 
 ## Mais informações
 
