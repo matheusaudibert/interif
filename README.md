@@ -55,7 +55,7 @@ A competição é dividida em duas etapas:
 
 - [Equipes](pdfs/Equipes.pdf) _(262 no total)_
 - [Regulamento](pdfs/Regulamento.pdf)
-- [Critérios de Classificação InterIF](pdfs/Criterios_Classificacao.pdf)
+- [Critérios de Classificação](pdfs/Criterios_Classificacao.pdf)
 
 ## Mais informações
 
