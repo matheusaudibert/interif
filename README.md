@@ -21,7 +21,7 @@
 
 Bem-vindo ao repositório da **Maratona de Programação do IFSP**, também conhecida como **InterIF**!  
 Aqui você encontrará provas e resoluções comentadas das edições anteriores da maratona, com foco em ajudar estudantes a praticarem e se prepararem para a competição.  
-O conteúdo está sendo adicionado gradualmente — fique à vontade para contribuir!
+O conteúdo está sendo adicionado gradualmente, fique à vontade para contribuir!
 
 ## Estrutura do Repositório
 
@@ -49,7 +49,7 @@ A competição é dividida em duas etapas:
 - **Etapa local (em cada campus):** 28 de junho de 2025, às 8h
 - **Etapa final (em São Carlos):** 03 e 04 de outubro de 2025
 
-## Link Úteis
+## Links Úteis
 
 - [Equipes](Equipes.pdf) _(262 Equipes no total!)_
 - [Regulamento 2025 (PDF)](Regulamento.pdf)
@@ -57,15 +57,13 @@ A competição é dividida em duas etapas:
 
 ## Mais informações
 
-Confira o site oficial da competição:
+Confira o site oficial da maratona:
 
 - [https://ifsp.edu.br/interif](https://ifsp.edu.br/interif)
 
 ## Contribuições
 
 Se você quiser contribuir com soluções, correções ou melhorias, basta enviar um **pull request** com a sua proposta. Siga o padrão de organização do repositório e, se possível, inclua comentários ou explicações junto ao código para ajudar outros estudantes a entenderem a lógica.
-
-<hr>
 
 <p align="center">
   <img src="media/interif_2024.png" alt="Segunda fase">
