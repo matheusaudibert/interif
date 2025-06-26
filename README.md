@@ -27,7 +27,6 @@ O conteúdo está sendo adicionado gradualmente, fique à vontade para contribui
 
 As provas e resoluções estão organizadas por ano, de **2024 a 2018**, nos diretórios abaixo:
 
-- [`/provas/2025`](./provas/2025) _(Prova de aquecimento)_
 - [`/provas/2024`](./provas/2024)
 - [`/provas/2023`](./provas/2023)
 - [`/provas/2022`](./provas/2022)
@@ -53,6 +52,7 @@ A competição é dividida em duas etapas:
 
 ## Links Úteis
 
+- [Aquecimento](pdfs/Aquecimento.pdf)
 - [Equipes](pdfs/Equipes.pdf) _(262 no total)_
 - [Regulamento](pdfs/Regulamento.pdf)
 - [Critérios de Classificação](pdfs/Criterios_Classificacao.pdf)
