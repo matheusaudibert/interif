@@ -51,10 +51,9 @@ A competição é dividida em duas etapas:
 
 ## Link Úteis
 
-- [Formulário de inscrição](https://forms.gle/DZXiMzVAYTPdian2A) (_até o dia 30 de maio de 2025_)
-- [Edital de inscrição (PDF)](https://drive.google.com/file/d/1sYCNuBOG5vYjvzXBxJk2E24joy2g5UvX/view?usp=sharing)
-- [Regulamento 2025 (PDF)](https://drive.google.com/file/d/1XqRHgWWSJDoa99_ojDFl3Dri8xIYmnCZ/view?usp=sharing)
-- [Critérios de Classificação InterIF 2025 (PDF)](https://drive.google.com/file/d/1u1YiNr7PmwzxbHBR4CYooDFuawcBeYXb/view?usp=sharing)
+- [Equipes](Equipes.pdf) _(262 Equipes no total!)_
+- [Regulamento 2025 (PDF)](Regulamento.pdf)
+- [Critérios de Classificação InterIF 2025 (PDF)](Criterios_Classificacao.pdf)
 
 ## Mais informações
 
