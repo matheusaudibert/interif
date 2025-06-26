@@ -25,8 +25,9 @@ O conteúdo está sendo adicionado gradualmente, fique à vontade para contribui
 
 ## Estrutura do Repositório
 
-As provas e resoluções estão organizadas por ano, de **2023 a 2018**, nos diretórios abaixo:
+As provas e resoluções estão organizadas por ano, de **2024 a 2018**, nos diretórios abaixo:
 
+- [`/provas/2024`](./provas/2024)
 - [`/provas/2023`](./provas/2023)
 - [`/provas/2022`](./provas/2022)
 - [`/provas/2021`](./provas/2021)
