@@ -1,7 +1,7 @@
 # Problema D 
 # Fábrica de Automóveis
 
-# Exemplos de Entradas - Exemplos de Saídas 
+# Exemplos de Entradas  Exemplos de Saídas 
 # 3 2      5100 6700
 # 4 5 7    1700 2200
 # 1 2 2

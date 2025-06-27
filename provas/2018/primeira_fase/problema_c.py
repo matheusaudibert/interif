@@ -1,7 +1,7 @@
 # Problema C 
 # Taxi Aéreo
 
-# Exemplos de Entradas - Exemplos de Saídas 
+# Exemplos de Entradas  Exemplos de Saídas 
 # 100 500.00 10.00 150  Passageiros: 75
 #                       Receita maxima: 56250.00 
    

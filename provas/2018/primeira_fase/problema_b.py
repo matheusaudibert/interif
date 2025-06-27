@@ -1,7 +1,7 @@
 # Problema B 
 # Jogo de Truco
 
-# Exemplos de Entradas - Exemplos de Saídas 
+# Exemplos de Entradas  Exemplos de Saídas 
 # 1   2 3 
 # 11  12 13 1 2 3 
 # 13  1 2 3 

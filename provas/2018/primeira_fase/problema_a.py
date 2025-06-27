@@ -1,7 +1,7 @@
 # Problema A
 # Funções Matemáticas
 
-# Exemplos de Entradas - Exemplos de Saídas 
+# Exemplos de Entradas  Exemplos de Saídas 
 # 5 3    Beto ganhou 
 # 2 30   Carlos ganhou 
 # 2 100  Carlos ganhou 
