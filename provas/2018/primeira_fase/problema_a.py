@@ -3,9 +3,13 @@
 
 # Exemplos de Entradas  Exemplos de Saídas 
 # 5 3    Beto ganhou 
+
 # 2 30   Carlos ganhou 
+
 # 2 100  Carlos ganhou 
+
 # 30 20  Beto ganhou  
+
 # 15 5   Rafael Ganhou 
 
 

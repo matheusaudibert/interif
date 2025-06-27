@@ -3,10 +3,15 @@
 
 #Exemplos de Entrada  Exemplos de Saída    
 # 1000 3 900   Isento 
+
 # 2999 2 6000  Isento 
+
 # 3000 0 0     1950 
+
 # 3000 1 0     1755 
+
 # 3000 0 263   1687 
+
 # 5000 2 0     520
 
 # Lê os valores de entrada: salário mensal, número de dependentes e gastos com saúde

@@ -3,8 +3,11 @@
 
 # Exemplos de Entradas  Exemplos de Saídas 
 # 1   2 3 
+
 # 11  12 13 1 2 3 
+
 # 13  1 2 3 
+
 # 3   0 
 
 # Define a ordem de força das cartas, da mais fraca para a mais forte.
