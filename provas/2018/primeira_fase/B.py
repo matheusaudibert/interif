@@ -10,10 +10,10 @@
 
 # 3   0 
 
-cartas = [4, 5, 6, 7, 11, 12, 13, 1, 2, 3]
-carta = int(input())
+cartas=[4, 5, 6, 7, 11, 12, 13, 1, 2, 3]
+carta=int(input())
 
-maiores = [c for c in cartas if cartas.index(c) > cartas.index(carta)]
+maiores=[c for c in cartas if cartas.index(c)>cartas.index(carta)]
 if maiores:
     print(*maiores)
 else:

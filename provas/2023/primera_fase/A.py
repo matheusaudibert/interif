@@ -11,14 +11,14 @@
 # Liche bondoso bacanA  # frasco 2
 
 def conta_vogal(texto):
-  vogais = 'aeiouAEIOU'
-  contagem = 0
+  vogais='aeiouAEIOU'
+  contagem=0
   for letra in texto:
     if letra in vogais:
-      contagem += 1
-  return contagem % 3
-nome = input()
-vogais = conta_vogal(nome)
+      contagem+=1
+  return contagem%3
+nome=input()
+vogais=conta_vogal(nome)
 print(f"frasco {vogais}")
 
   

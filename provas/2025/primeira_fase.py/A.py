@@ -20,22 +20,22 @@
 # 128
 # 15
 
-num_poderes = int(input())
-poderes = []
+num_poderes=int(input())
+poderes=[]
 for _ in range(num_poderes):
   poderes.append(int(input()))
 magia_necessaria = int(input())
 poderes.sort(reverse=True)
-soma_magias = 0
-possivel = True
-qtd = 0
+soma_magias=0
+possivel=True
+qtd=0
 for poder in poderes:
-  if magia_necessaria == 0:
+  if magia_necessaria==0:
     break
-  while magia_necessaria >= poder:
-      magia_necessaria = magia_necessaria - poder
-      soma_magias = soma_magias + 1
-if magia_necessaria == 0:
+  while magia_necessaria>=poder:
+      magia_necessaria=magia_necessaria-poder
+      soma_magias=soma_magias + 1
+if magia_necessaria==0:
   print(soma_magias)
 else:
   print('frustraka')
