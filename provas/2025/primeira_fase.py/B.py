@@ -15,6 +15,6 @@ for i in range(len(palavra)-1):
     if palavra[i]!=palavra[i+1]:
         soma+=1
         maximo.append(soma)
-    else: 
+    else:
         soma=0
 print(max(maximo))

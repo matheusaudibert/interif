@@ -13,15 +13,15 @@
 
 def numero_de_divisores(n):
     dividores=0
-    for i in range(1, n + 1):
-        if n % i==0:
+    for i in range(1,n+1):
+        if n%i==0:
             dividores+=1
     return dividores
 
 num=int(input())
 if num==0:
   exit()
-numeros=list(map(int, input().split()))
+numeros=list(map(int,input().split()))
 n_divisores_primeiro=0
 for numero in numeros:
   divisores=numero_de_divisores(numero)
@@ -30,7 +30,5 @@ for numero in numeros:
     n_divisores_primeiro=divisores
   if divisores==n_divisores_primeiro:
     if numero<primeiro:
-      primeiro = numero
+      primeiro=numero
 print(primeiro)
-    
-

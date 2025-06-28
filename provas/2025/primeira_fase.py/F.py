@@ -6,5 +6,3 @@
 # Que tem boca vaia Roma                 # 2: a quem vai vaia
 # O filosofo se perguntava:              # 1: filosofo o ou perguntava que se
 # Quem tem boca "vai a" ou "vaia" Roma?
-
-input

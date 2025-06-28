@@ -24,7 +24,7 @@ num_poderes=int(input())
 poderes=[]
 for _ in range(num_poderes):
   poderes.append(int(input()))
-magia_necessaria = int(input())
+magia_necessaria=int(input())
 poderes.sort(reverse=True)
 soma_magias=0
 possivel=True
@@ -34,7 +34,7 @@ for poder in poderes:
     break
   while magia_necessaria>=poder:
       magia_necessaria=magia_necessaria-poder
-      soma_magias=soma_magias + 1
+      soma_magias=soma_magias+1
 if magia_necessaria==0:
   print(soma_magias)
 else:
