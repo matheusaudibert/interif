@@ -14,13 +14,13 @@
 
 # 5000 2 0     520
 
-salario_mensal,n_de_dependentes,gasto_saude=map(int, input().split())
+salario_mensal,n_de_dependentes,gasto_saude=map(int,input().split())
 if salario_mensal<=2999:
   print('Isento')
 else:
   salario_anual=salario_mensal*13
   if salario_mensal<=4999:
-    aliquota =0.05
+    aliquota=0.05
   elif salario_mensal<=9999:
     aliquota=0.10
   elif salario_mensal<=14999:

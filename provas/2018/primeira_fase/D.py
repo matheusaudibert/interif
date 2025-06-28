@@ -17,12 +17,12 @@
 # 500 600 700
 # 600 700 800
 
-modelos,meses=map(int, input().split())
-parafusos_por_modelo=list(map(int, input().split()))
-travas_por_modelo=list(map(int, input().split()))
+modelos,meses=map(int,input().split())
+parafusos_por_modelo=list(map(int,input().split()))
+travas_por_modelo=list(map(int,input().split()))
 producao=[]
 for _ in range(modelos):
-    linha_producao=list(map(int, input().split()))
+    linha_producao=list(map(int,input().split()))
     producao.append(linha_producao)
 total_parafusos=[0]*meses
 total_travas=[0]*meses
@@ -31,5 +31,5 @@ for modelo in range(modelos):
         quantidade=producao[modelo][mes]
         total_parafusos[mes]+=parafusos_por_modelo[modelo]*quantidade
         total_travas[mes]+=travas_por_modelo[modelo]*quantidade
-print('\t'.join(map(str, total_parafusos)))
-print('\t'.join(map(str, total_travas)))
+print('\t'.join(map(str,total_parafusos)))
+print('\t'.join(map(str,total_travas)))
