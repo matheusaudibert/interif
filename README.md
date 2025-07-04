@@ -12,9 +12,6 @@
   <a href="https://github.com/matheusaudibert/interif/forks">
     <img src="https://img.shields.io/github/forks/matheusaudibert/interif?color=195228&logo=github&style=flat-square" alt="GitHub Forks">
   </a>
-  <a href="https://discord.gg/t86nFuCrbj">
-    <img src="https://custom-icon-badges.demolab.com/discord/1112920281367973900?color=195228&logo=discord&label=Discord&logoColor=white&style=flat-square" alt="Discord">
-  </a>
 </p>
 
 # InterIF - Maratona de Programação do IFSP
