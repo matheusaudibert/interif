@@ -1,5 +1,5 @@
 # Problema B
-# Dança das Leetras
+# Dança das Letras
 
 # Exemplos de entrada  Exemplos de Saída
 # ABABBA      # 4
